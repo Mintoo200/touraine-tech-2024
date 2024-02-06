@@ -4,3 +4,6 @@
 [submodule "touraine-tech-ref"]
 	path = touraine-tech-ref
 	url = git@github.com:Mintoo200/touraine-tech-2024-reference.git
+[submodule "touraine-tech-react"]
+	path = touraine-tech-react
+	url = git@github.com:Mintoo200/touraine-tech-2024-react.git
