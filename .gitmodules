@@ -1,0 +1,3 @@
+[submodule "touraine-tech-vue"]
+	path = touraine-tech-vue
+	url = ./touraine-tech-vue/
